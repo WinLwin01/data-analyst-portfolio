@@ -77,7 +77,7 @@ projects/hr-analytics/
 ├── README.md
 └── hr_dashboard.pbix
 
-📷 Dashboard Preview
+  <img src="images/hr-dashboard.png" alt="HR Analytics Dashboard">
 
 🚀 Outcome
 
