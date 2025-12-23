@@ -61,7 +61,7 @@
     <p>
       🔗 <a href="projects/pizza-sales/README.md">Project Documentation</a>
     </p>
-    <img src="images/pizza-dashboard.png" alt="Pizza Sales Dashboard">
+    <img src="images/pizza_dashboard.png" alt="Pizza Sales Dashboard">
   </div>
 
   <!-- PROJECT 2 -->
