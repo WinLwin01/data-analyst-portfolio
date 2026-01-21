@@ -90,7 +90,7 @@
   <h2>Contact</h2>
   <p>
     📧 Email: <strong>winlwinhtay01@gmail.com</strong><br>
-    💼 LinkedIn: <a href="#" target="_blank">www.linkedin.com/in/win-lwin-htay-abba1b124</a><br>
+    💼 LinkedIn: <a href="#" target="_blank">https://www.linkedin.com/in/win-lwin-htay-abba1b124</a><br>
     📂 GitHub: <a href="#" target="_blank">github.com/winlwin01</a><br>
     📄 Resume: <a href="assets/Data Analyst_Resume of WLH_122025.pdf" target="_blank">Download PDF</a>
   </p>
